@@ -1,0 +1,1 @@
+mex -v CFLAGS='$CFLAGS -fPIC' -lcflie -lusb-1.0 sfun_cflie_simple.cpp
